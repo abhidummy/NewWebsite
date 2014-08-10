@@ -1,0 +1,10 @@
+﻿.MainHeader1
+{
+    font-style:normal;
+    font-size:larger;
+    color:Olive;
+    font-weight:bold;
+    float:left;
+    display:inline;    
+    width:auto;
+}
